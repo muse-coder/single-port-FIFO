@@ -1,4 +1,4 @@
-## single port FIFO,read and write simultaneously  ##
+# single port FIFO,read and write simultaneously  
     FIFO MEMORY WITH SINGLE PORT MEMORY MODULES FOR ALLOWING SMULTANEOUS READ AND WRITE OPERATIONS
     abstract:
     Use to single port ram to implement.
